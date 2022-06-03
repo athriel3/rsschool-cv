@@ -2,5 +2,5 @@
 ### Contacts
 * Discord: athriel3#0507
 * E-mail: athriel3@gmail.com
-* @gabler
-* athriel3
+* Telegram: [@gabler](https://t.me/gabler)
+* GitHub: [athriel3](https://github.com/athriel3)
