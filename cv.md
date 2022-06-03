@@ -17,3 +17,9 @@ function multiply(a, b) {
   return a * b;
 }
 ```
+### Work experience
+*Nothing yet…*
+### Education and courses
+* RSSchool Course «JS / FRONT-END. STAGE 0 (RU)» (in 	progress)
+### Language
+* English - A2
