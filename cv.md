@@ -11,3 +11,9 @@ I want to learn Front-End Development in RSSchool
 * CSS/SASS
 * JavaScript (Basic)
 * Git
+### Code example
+```
+function multiply(a, b) {
+  return a * b;
+}
+```
